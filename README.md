@@ -50,6 +50,33 @@ These are just a few ideas, and you can combine or expand upon them to create a 
 ## Use Cases
 ![image](https://github.com/Kavin1311/SIHPS/assets/145695724/0485af06-e824-4be8-b84c-9df1d09cdd8d)
 
+E-waste Locator App Use Cases
+Here are some use cases for the E-waste Locator App, showcasing how different user types can benefit from its functionalities:
+
+## 1. Eco-conscious Citizen:
+
+Scenario: Sarah has an old laptop that's no longer functional. She wants to dispose of it responsibly but doesn't know where to take it.
+Actions: Sarah opens the app and uses her location to find nearby e-waste facilities. She filters the search results by "laptops" to see which facilities accept her specific e-waste type. The app displays facility details, including addresses, operating hours, and any associated fees. Sarah chooses the most convenient facility and uses the map feature with turn-by-turn directions to get there.
+
+## 2. Busy Professional:
+
+Scenario: John has a broken tablet at his office. He doesn't have time to research e-waste disposal options himself.
+Actions: John opens the app and uses the "Bulk E-waste Pickup Scheduling" feature. He selects "tablet" from the e-waste type list and chooses a convenient pick-up date and time. The app provides an estimated cost for the service based on the weight and type of e-waste. John confirms the booking, and the app sends him a notification for pickup.
+## 3. Tech Enthusiast Upgrading Gadgets:
+
+Scenario: Maya just bought a new smartphone and wants to recycle her old one. She's interested in earning rewards for responsible e-waste disposal.
+Actions: Maya opens the app and searches for facilities that accept smartphones. She chooses a facility offering a reward program for responsible recycling. The app guides her through the process of securely wiping her data before disposal. After dropping off her phone, Maya receives points in the app's reward program, which she can redeem for discounts on eco-friendly products or local events.
+
+## 4. Local Recycling Facility:
+
+Scenario: A local e-waste processing facility wants to increase awareness of their services and attract more customers.
+Actions: The facility partners with the E-waste Locator App and provides their details (location, capabilities, fees) to be listed in the app's database. This allows them to reach a wider audience of potential customers looking for responsible e-waste disposal options. The app also offers features like "Impact Tracking" which can showcase the facility's positive environmental impact through the total weight of e-waste processed.
+
+## 5. Event Organizer (E-waste Collection Drive):
+
+Scenario: A local environmental organization is planning an e-waste collection drive and needs a way to promote the event and educate participants.
+Actions: The organization partners with the E-waste Locator App to promote the collection drive within the app. They can share event details, location, and accepted e-waste types. The app's educational resources on data security and e-waste disposal can further inform participants about responsible recycling practices.
+These use cases demonstrate how the E-waste Locator App caters to various user needs, promoting responsible e-waste disposal practices and creating a positive environmental impact.
 
 ## Technology Stack
 
